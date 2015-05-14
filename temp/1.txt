@@ -1,0 +1,272 @@
+<<< apply the patch into the /home/ljz/android/miui/superior/android.policy.jar.out
+patching file /home/ljz/android/miui/superior/android.policy.jar.out/./smali/com/android/internal/policy/impl/Policy.smali
+patching file /home/ljz/android/miui/superior/android.policy.jar.out/./smali/com/android/internal/policy/impl/PhoneWindowManager.smali
+Hunk #1 succeeded at 198 (offset -2 lines).
+Hunk #2 succeeded at 317 (offset -2 lines).
+Hunk #3 succeeded at 401 (offset -2 lines).
+Hunk #4 succeeded at 475 (offset -2 lines).
+Hunk #5 succeeded at 4542 (offset -14 lines).
+Hunk #6 succeeded at 7780 (offset -14 lines).
+Hunk #7 succeeded at 10312 (offset -14 lines).
+Hunk #8 succeeded at 10396 (offset -14 lines).
+Hunk #9 succeeded at 16373 (offset -18 lines).
+Hunk #10 succeeded at 18555 (offset -18 lines).
+Hunk #11 succeeded at 20849 (offset -18 lines).
+Hunk #12 succeeded at 20976 (offset -18 lines).
+Hunk #13 succeeded at 21000 (offset -18 lines).
+<<< compute the difference between /home/ljz/android/miui/superior/temp/old_smali/framework.jar.out and /home/ljz/android/miui/superior/temp/new_smali/framework.jar.out
+<<< apply the patch into the /home/ljz/android/miui/superior/framework.jar.out
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/telephony/SignalStrength.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/telephony/PhoneStateListener.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/telephony/TelephonyManager.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/media/AudioService$7.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/media/MiniThumbFile.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/media/MediaScanner$MyMediaScannerClient.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/media/MediaFile.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/media/AudioService.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/media/AudioService$VolumeStreamState.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/os/RecoverySystem.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/content/Intent.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/content/pm/PackageItemInfo.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/content/pm/ResolveInfo$DisplayNameComparator.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/content/pm/ResolveInfo.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/content/pm/PackageParser.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/content/res/Resources.smali
+Hunk #1 succeeded at 237 (offset -22 lines).
+Hunk #2 succeeded at 640 (offset -22 lines).
+Hunk #3 succeeded at 874 (offset -22 lines).
+Hunk #4 succeeded at 885 (offset -22 lines).
+Hunk #5 succeeded at 948 (offset -22 lines).
+Hunk #6 succeeded at 2827 (offset -32 lines).
+Hunk #7 succeeded at 3925 (offset -32 lines).
+Hunk #8 succeeded at 4307 (offset -32 lines).
+Hunk #9 succeeded at 4559 (offset -32 lines).
+Hunk #10 succeeded at 4680 (offset -32 lines).
+Hunk #11 succeeded at 4787 (offset -32 lines).
+Hunk #12 succeeded at 5009 (offset -32 lines).
+Hunk #13 succeeded at 5432 (offset -32 lines).
+Hunk #14 succeeded at 5508 (offset -32 lines).
+Hunk #15 succeeded at 6452 (offset -32 lines).
+Hunk #16 succeeded at 6845 (offset -32 lines).
+Hunk #17 succeeded at 6929 (offset -32 lines).
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/content/res/Resources$Theme.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/content/res/AssetManager.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/content/res/Configuration.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/content/Context.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/app/Activity.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/app/BackStackState.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/app/ContextImpl.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/app/backup/BackupAgent.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/app/Notification.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/app/LoadedApk.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/app/FragmentManagerImpl$6.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/app/ResourcesManager.smali
+Hunk #1 succeeded at 1399 (offset -53 lines).
+Hunk #2 succeeded at 2097 (offset -53 lines).
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/app/AppOpsManager$OpEntry.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/app/StatusBarManager.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/app/ApplicationPackageManager.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/util/TypedValue.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/util/DisplayMetrics.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/ScaleGestureDetector.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/Surface.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/WindowManagerPolicy.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/View.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/WindowManagerGlobal.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/ViewRootImpl.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/WindowManager$LayoutParams.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/ViewDebug.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/WindowManagerPolicy$WindowManagerFuncs.smali'
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/ViewRootImpl$ImeInputStage.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/Window.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/LayoutInflater.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/view/ViewConfiguration.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/database/AbstractCursor.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/database/sqlite/SQLiteCursor.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/EthernetDataTracker.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/ConnectivityManager.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/MobileDataStateTracker.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/CaptivePortalTracker.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/IConnectivityManager$Stub.smali'
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiConfiguration$KeyMgmt.smali'
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiConfiguration$PairwiseCipher.smali'
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiConfiguration$Protocol.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/ScanResult.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiConfiguration.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiInfo$1.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiInfo.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiEnterpriseConfig.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/ScanResult$1.smali'
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiConfiguration$GroupCipher.smali'
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiConfiguration$1.smali'
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiMonitor$MonitorThread.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiStateMachine.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiEnterpriseConfig$Eap.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiConfigStore.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/wifi/WifiManager.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/IConnectivityManager$Stub$Proxy.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/net/IConnectivityManager.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/webkit/WebView.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/widget/Toast$TN.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/widget/TextView.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/widget/OverScroller$SplineOverScroller.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/widget/AbsListView.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/widget/EdgeEffect.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/widget/Toast.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/widget/OverScroller.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/widget/AbsListView$PositionScroller.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/widget/RemoteViews.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/widget/AbsListView$MultiChoiceModeWrapper.smali'
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/preference/RingtonePreference.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/graphics/drawable/NinePatchDrawable.smali
+patching file /home/ljz/android/miui/superior/framework.jar.out/./smali/android/accounts/ChooseTypeAndAccountActivity.smali
+patching file '/home/ljz/android/miui/superior/framework.jar.out/./smali/android/accounts/AccountManager$AmsTask$Response.smali'
+<<< compute the difference between /home/ljz/android/miui/superior/temp/old_smali/services.jar.out and /home/ljz/android/miui/superior/temp/new_smali/services.jar.out
+<<< apply the patch into the /home/ljz/android/miui/superior/services.jar.out
+patching file '/home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/MasterClearReceiver$1.smali'
+patching file '/home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/ConnectivityService$FeatureUser.smali'
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/NotificationManagerService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/am/ActivityManagerService.smali
+Hunk #1 succeeded at 1596 with fuzz 2 (offset -130 lines).
+Hunk #2 succeeded at 3882 (offset -257 lines).
+Hunk #3 succeeded at 10979 (offset -257 lines).
+Hunk #4 succeeded at 14693 (offset -257 lines).
+Hunk #5 succeeded at 15151 (offset -257 lines).
+Hunk #6 succeeded at 18315 (offset -269 lines).
+Hunk #7 succeeded at 19389 (offset -269 lines).
+Hunk #8 succeeded at 27824 (offset -269 lines).
+Hunk #9 succeeded at 42284 (offset -269 lines).
+Hunk #10 succeeded at 42757 (offset -269 lines).
+Hunk #11 succeeded at 44684 (offset -269 lines).
+Hunk #12 succeeded at 44698 (offset -269 lines).
+Hunk #13 succeeded at 62245 (offset -284 lines).
+Hunk #14 succeeded at 66797 (offset -284 lines).
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/am/ActivityStackSupervisor.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/am/BroadcastQueue.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/am/TaskRecord.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/am/ActivityStack.smali
+Hunk #4 succeeded at 3849 (offset -12 lines).
+Hunk #5 succeeded at 6542 (offset -12 lines).
+Hunk #6 succeeded at 6770 (offset -12 lines).
+Hunk #7 succeeded at 11571 (offset -12 lines).
+patching file '/home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/am/ActivityManagerService$2.smali'
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/AssetAtlasService.smali
+Hunk #2 succeeded at 163 (offset -14 lines).
+Hunk #3 succeeded at 501 with fuzz 2 (offset 35 lines).
+Hunk #4 succeeded at 701 (offset -23 lines).
+patching file '/home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/LightsService$Light.smali'
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/power/DisplayPowerController.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/power/PowerManagerService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/power/ShutdownThread.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/wm/WindowManagerService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/wm/WindowStateAnimator.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/wm/InputMonitor.smali
+patching file '/home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/wm/WindowManagerService$H.smali'
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/DevicePolicyManagerService.smali
+patching file '/home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/AlarmManagerService$UninstallReceiver.smali'
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/content/SyncManager.smali
+patching file '/home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/content/SyncManager$SyncHandler.smali'
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/InputMethodManagerService.smali
+patching file '/home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/ConnectivityService$CheckMp.smali'
+Hunk #1 FAILED at 2118.
+Hunk #2 succeeded at 2164 (offset 12 lines).
+1 out of 2 hunks FAILED -- saving rejects to file '/home/ljz/android/miui/superior/temp/reject/services.jar.out/./smali/com/android/server/ConnectivityService$CheckMp.smali.rej'
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/location/GpsLocationProvider.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/usb/UsbDeviceManager.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/StatusBarManagerService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/MountService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/MasterClearReceiver.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/BackupManagerService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/DeviceStorageMonitorService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/VibratorService.smali
+patching file '/home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/pm/PackageManagerService$PackageHandler.smali'
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/pm/PackageManagerService.smali
+Hunk #1 succeeded at 1070 (offset -2 lines).
+Hunk #2 succeeded at 1854 (offset -2 lines).
+Hunk #3 succeeded at 2677 (offset -10 lines).
+Hunk #4 succeeded at 2817 (offset -10 lines).
+Hunk #5 succeeded at 5456 (offset -10 lines).
+Hunk #6 succeeded at 8760 (offset -10 lines).
+Hunk #7 succeeded at 12547 (offset -10 lines).
+Hunk #8 succeeded at 16291 (offset -10 lines).
+Hunk #9 succeeded at 18946 (offset -10 lines).
+Hunk #10 succeeded at 19636 (offset -10 lines).
+Hunk #11 succeeded at 32108 (offset -152 lines).
+Hunk #12 succeeded at 32305 (offset -152 lines).
+Hunk #13 succeeded at 39099 (offset -152 lines).
+Hunk #14 succeeded at 45261 (offset -407 lines).
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/AlarmManagerService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/LightsService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/LocationManagerService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/net/NetworkPolicyManagerService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/display/WifiDisplayController.smali
+patching file '/home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/input/InputManagerService$WindowManagerCallbacks.smali'
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/LockSettingsService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/connectivity/Tethering.smali
+Hunk #1 succeeded at 1426 (offset -182 lines).
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/ConnectivityService.smali
+patching file '/home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/NotificationManagerService$5.smali'
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/UiModeManagerService.smali
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/ServerThread.smali
+patching file '/home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/LightsService$1.smali'
+patching file /home/ljz/android/miui/superior/services.jar.out/./smali/com/android/server/accounts/AccountManagerService.smali
+<<< compute the difference between /home/ljz/android/miui/superior/temp/old_smali/telephony-common.jar.out and /home/ljz/android/miui/superior/temp/new_smali/telephony-common.jar.out
+<<< apply the patch into the /home/ljz/android/miui/superior/telephony-common.jar.out
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/uicc/IccCardProxy.smali
+Hunk #1 succeeded at 2309 (offset -210 lines).
+Hunk #2 succeeded at 2756 (offset -210 lines).
+Hunk #3 succeeded at 3067 (offset -210 lines).
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/uicc/SIMRecords.smali
+Hunk #2 succeeded at 3324 (offset -12 lines).
+Hunk #3 succeeded at 7603 (offset -12 lines).
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/uicc/IccRecords.smali
+Hunk #1 succeeded at 61 (offset -2 lines).
+Hunk #2 succeeded at 1238 (offset -6 lines).
+Hunk #3 succeeded at 1580 (offset -176 lines).
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/uicc/RuimRecords.smali
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/uicc/UiccCard.smali
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/Phone.smali
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/PhoneBase.smali
+Hunk #5 succeeded at 2935 (offset -28 lines).
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/TelephonyCapabilities.smali
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/gsm/GSMPhone.smali
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/cdma/CDMAPhone.smali
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/IccCard.smali
+Hunk #1 succeeded at 55 (offset -15 lines).
+Hunk #2 succeeded at 70 (offset -15 lines).
+Hunk #3 succeeded at 91 (offset -15 lines).
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/PhoneProxy.smali
+patching file '/home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/InboundSmsHandler$SmsBroadcastReceiver.smali'
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/IccProvider.smali
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/com/android/internal/telephony/InboundSmsHandler.smali
+patching file /home/ljz/android/miui/superior/telephony-common.jar.out/./smali/android/telephony/SmsManager.smali
+Hunk #1 succeeded at 189 with fuzz 1 (offset -38 lines).
+patching file '/home/ljz/android/miui/superior/telephony-common.jar.out/./smali/android/provider/Telephony$Sms.smali'
+<<< compute the difference between /home/ljz/android/miui/superior/temp/old_smali/framework2.jar.out and /home/ljz/android/miui/superior/temp/new_smali/framework2.jar.out
+<<< apply the patch into the /home/ljz/android/miui/superior/framework2.jar.out
+patching file '/home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/telephony/IccCardConstants$State.smali'
+patching file /home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/os/RuntimeInit.smali
+patching file /home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/os/ZygoteInit.smali
+Hunk #1 succeeded at 463 (offset 8 lines).
+Hunk #2 succeeded at 1315 (offset 65 lines).
+Hunk #3 succeeded at 1370 (offset 71 lines).
+patching file '/home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/app/IAppOpsService$Stub.smali'
+patching file /home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/app/IAppOpsService.smali
+patching file /home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/app/LocalePicker.smali
+patching file '/home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/app/IAppOpsService$Stub$Proxy.smali'
+patching file '/home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/widget/ILockSettings$Stub$Proxy.smali'
+patching file '/home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/widget/LockPatternView$Cell.smali'
+patching file '/home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/widget/ILockSettings$Stub.smali'
+patching file /home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/widget/LockPatternUtils.smali
+patching file /home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/widget/ILockSettings.smali
+patching file /home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/widget/SizeAdaptiveLayout.smali
+patching file /home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/widget/LockPatternView.smali
+patching file /home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/statusbar/IStatusBar.smali
+patching file '/home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/statusbar/IStatusBar$Stub$Proxy.smali'
+patching file '/home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/statusbar/IStatusBarService$Stub$Proxy.smali'
+patching file '/home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/statusbar/IStatusBar$Stub.smali'
+patching file /home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/statusbar/IStatusBarService.smali
+patching file '/home/ljz/android/miui/superior/framework2.jar.out/./smali/com/android/internal/statusbar/IStatusBarService$Stub.smali'
+
+
+
